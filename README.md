@@ -1,5 +1,5 @@
 # Human-Activity-Predictive-Analysis
-This project focuses on using sensor data to predict human activity and is based on the ExtraSensory dataset, This dataset was collected in 2015-2016 by Yonatan Vaizman and Katherine Ellis with the supervision of Professor Gert Lanckriet. Department of Electrical and Computer Engineering, University of California, San Diego.
+This project was part of the EE-514 Module of Data analysis and Machine learning at Dublin City University. It focuses on using sensor data to predict human activity and is based on the ExtraSensory dataset, This dataset was collected in 2015-2016 by Yonatan Vaizman and Katherine Ellis with the supervision of Professor Gert Lanckriet. Department of Electrical and Computer Engineering, University of California, San Diego.
 
 The methodology involved in this study is summarized as follows:
 
@@ -22,5 +22,4 @@ This project leveraged the following skills:
 5. Extract, Transform, and Load (ETL) processes
 6. Machine learning techniques
 7. Logistic regression modeling
-8. Model selection and optimization
-9. Statistical analysis and predictive modeling
+8. Model selection and optimization9. Statistical analysis and predictive modeling
