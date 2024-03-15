@@ -1,4 +1,4 @@
-# Human-Activity-Predictive-Analysis
+# Project Title: Human Activity Predictive Analysis
 This project was part of the EE-514 Module of Data analysis and Machine learning at Dublin City University. It focuses on using sensor data to predict human activity and is based on the ExtraSensory dataset, This dataset was collected in 2015-2016 by Yonatan Vaizman and Katherine Ellis with the supervision of Professor Gert Lanckriet. Department of Electrical and Computer Engineering, University of California, San Diego.
 
 The methodology involved in this study is summarized as follows:
